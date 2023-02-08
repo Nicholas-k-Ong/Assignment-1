@@ -1,0 +1,26 @@
+1. cd GitBash
+cd Assignment-1
+mkdir "answers"
+
+2. cd answers
+touch answers.txt
+
+4. /c/Users/Nicho/GitHub/Assignment-1/answers
+
+5. git -a
+
+6. :(
+
+7. rm is a dangerous command if used without options such as rm - path or rm -i -r path, which
+would give you prompts to confirm deletion.
+
+8. mkdir results
+
+9. cd results
+touch my_script.sh
+nano my_script.sh
+inserted script
+
+10. chmod 755 my_script.sh
+
+11. [While in /answers/] cd ~/GitHub/Assignment/data
