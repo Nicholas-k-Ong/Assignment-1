@@ -9,7 +9,7 @@ touch answers.txt
 
 5. git -a
 
-6. :(
+6. ls /c/Users/Nicho/github/practice-repo (for example)
 
 7. rm is a dangerous command if used without options such as rm - path or rm -i -r path, which
 would give you prompts to confirm deletion.
@@ -24,3 +24,22 @@ inserted script
 10. chmod 755 my_script.sh
 
 11. [While in /answers/] cd ~/GitHub/Assignment/data
+
+12.  wc -w * | sort -n | tail -n 3 | head -n 1
+
+13. $ for thng in *.csv
+> do ~/Github/Assignment-1/answers/results/my_script.sh $thing
+> done
+ 
+14. unzip /\*.zip 
+under ../Assignment-1/: mkdir unzipped-files
+cd data
+mv annual_aqi_by_county*
+cd ~/GitHub/Assignment-1/unzipped-files
+
+15. rm -i *.zip 
+
+16. cp annual_aqi_by_county_2* ~/GitHub/Assignment-1/answers/results/
+
+LET'S GOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+Also W Elden Ring
